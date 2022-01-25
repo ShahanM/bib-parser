@@ -1,4 +1,4 @@
-# bib-parser
+# Bib Parser
 Convenient script to parse .bib files with the ACM Digital Library like metadata.
 
 I had a few very large .bib files from a literature survey and I wanted to explore the tags and abstracts within those literature. The script does not do much else other than parse the bib items and represents them as Python dictionaries with some convenient query methods.
